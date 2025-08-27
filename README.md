@@ -23,9 +23,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Vanga Sai Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanga-Sai-Charan&show_icons=true&theme=radical)  
+![Vanga Sai Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vangasaicharan2528&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanga-Sai-Charan&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vangasaicharan2528&layout=compact&theme=radical)  
 
 ---
 
